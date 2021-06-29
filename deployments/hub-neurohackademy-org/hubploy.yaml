@@ -11,5 +11,5 @@ cluster:
   gcloud:
     project: neurohackademy
     service_key: gke-key.json
-    cluster: nh2021
-    zone: us-east1
+    cluster: nh
+    zone: us-west1-b
